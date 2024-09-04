@@ -14,5 +14,5 @@ func main() {
 		fmt.Println("That's a good number:", n)
 	}
 	//🔴 error when compilation
-	fmt.Println(n)
+	//fmt.Println(n)
 }

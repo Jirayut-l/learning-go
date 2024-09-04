@@ -1,3 +1,3 @@
 module Learning-Go
 
-go 1.22
+go 1.23
